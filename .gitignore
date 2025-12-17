@@ -1,0 +1,8 @@
+nlp_env/
+final_model/
+.gradio/
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
